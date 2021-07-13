@@ -1,1 +1,1 @@
-# react - bootstrap, js, jamieyookr.github.io
+# React, Sass, Bootstrap, Router, Axios
