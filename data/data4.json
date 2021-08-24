@@ -1,0 +1,26 @@
+[
+    {
+        "id": 10,
+        "img": "https://jamieyookr.github.io/img/shoes10.png",
+        "title": "Nike Kyrie 7",
+        "content" : "Men Shoes",
+        "price" : 190,
+        "quan" : 1
+    },
+    {
+        "id": 11,
+        "img": "https://jamieyookr.github.io/img/shoes11.png",
+        "title": "Nike Tuned",
+        "content" : "Men Shoes",
+        "price" : 240,
+        "quan" : 1
+    },
+    {
+        "id": 12,
+        "img": "https://jamieyookr.github.io/img/shoes12.png",
+        "title": "Jordan MA2",
+        "content" : "Men Shoes",
+        "price" : 180,
+        "quan" : 1
+    }
+  ]
