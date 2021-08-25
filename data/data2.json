@@ -6,7 +6,7 @@
         "title": "Asics Dynablast 2",
         "content" : "Women Shoes",
         "price" : 149.95,
-        "quan" : 2
+        "quan" : 1
     },
     {
         "id": 5,
@@ -14,7 +14,7 @@
         "title": "Asics Quantum 180",
         "content" : "Women Shoes",
         "price" : 149.95,
-        "quan" : 2
+        "quan" : 1
     },
     {
         "id": 6,
