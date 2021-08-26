@@ -6,7 +6,8 @@
         "title": "Asics Dynablast 2",
         "content" : "Women Shoes",
         "price" : 149.95,
-        "quan" : 1
+        "quan" : 2,
+        "details" : "<p>202A245100<br/><hr>The SKYCOURT™ EARTH DAY sneaker borrows design influence from our indoor court offerings from the 80s and 90s. Revamping the archived inspiration with modern tooling, this shoe is also equipped with minimal branding for a low-profile finish. Enlisting the upper aesthetic from the GEL-ALTITUDE™ volleyball shoe from 1990, the sneaker’s leather construction is complemented with retro ASICS Stripes for a nostalgic nod that references our past.<br/><hr>+ Recycled Material Upper<br/>+ Updated Midsole Design<br/>+ Minimalist Aesthetic Speaks To Brands Heriateg<p/>"
     },
     {
         "id": 5,
@@ -14,7 +15,8 @@
         "title": "Asics Quantum 180",
         "content" : "Women Shoes",
         "price" : 149.95,
-        "quan" : 1
+        "quan" : 2,
+        "details" : "<p>201A063001<br/><hr>Keeping its performance tooling intact, the GEL-QUANTUM 180 6 sneaker continues to evolve the shoe's lineage with technical componentry and styling cues from the ASICS archive.<br/><hr>+ Synthetic Leathetr Overlays<br/>+ GEL Technology Cushioning<br/>+ Mesh Upper<br/>+ Rubber Outsole<p/>"
     },
     {
         "id": 6,
@@ -22,6 +24,7 @@
         "title": "Puma RS Dreamer 2",
         "content" : "Men Shoes",
         "price" : 200,
-        "quan" : 1
+        "quan" : 1,
+        "details":"<p>38198301<br/><hr>Puma and global superstar Dua Lipa made this one for the hype girls and trend mavens. This stand out silhouette takes design inspiration straight from the streets, with a stacked sole and contrasting rubber tooling for an edgy, layered look. This execution features a leather upper with a suede formstripe. Dua Lipa has created a statement fashion piece so that women can feel proud of their womanhood. It pays homage to the iconic PUMA platform sole but refashions it for the modern age.<br/><hr>+ Leather Upper<br/>+ Suede Formstripe<br/>+ Stacked Mid-Sole<br/>+ Rubber Outsole<p/>"
     }
   ]
