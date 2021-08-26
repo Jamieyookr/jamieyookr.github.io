@@ -7,7 +7,8 @@
         "title": "Under Armour Hovr Phantom 2",
         "content" : "Women Shoes",
         "price" : 220,
-        "quan" : 1
+        "quan" : 1,
+        "details" : "<p>Under Armour Hovr Phantom 2<br/><hr>CONNECTS TO UA MAPMYRUN™: tracks & analyzes your running metrics to help make you a better runner<br/>UA HOVR™ technology provides 'zero gravity feel' to maintain energy return that helps eliminate impact<br/>Compression mesh Energy Web contains & molds UA HOVR™ foam to give back the energy you put in<br/>Engineered flat knit upper for zonal stretch & support where you need it with a sock-like fit & feel<br/>Molded midfoot panel for added structure & plush interior cushioning<br/>Ultra-breathable, SpeedForm® 2.0 sockliner provides softer underfoot support<br/>Full rubber outsole features unique knobbed texture for elevated traction & durability<br/>External heel counter creates the ultimate in stable support<br/>Style #: 3023017<br/>Offset: 9mm<br/>Weight: 11.54 oz.<br/>Imported<br/>NEUTRAL: For runners who need a balance of flexibility & cushioning<p/>"
     },
     {
         "id": 8,
@@ -15,7 +16,8 @@
         "title" : "Nike Lebron 18",
         "content" : "Men Shoes",
         "price" : 270,
-        "quan" : 1
+        "quan" : 1,
+        "details" : "<p>When LeBron accelerates down the court, he produces tremendous force.The LeBron 18 is designed to harness his abilities while helping with the stress he puts on his body.Combined cushioning underfoot allows him to use his power for unstoppable bursts of speed.<br/><hr>Colour Shown: Blue Tint<br/>Style: CQ9283-401<p/>"
     },
     {
         "id": 9,
@@ -23,6 +25,7 @@
         "title": "Nike Kyrie Low 4",
         "content" : "Men Shoes",
         "price" : 160,
-        "quan" : 1
+        "quan" : 1,
+        "details" : "<p>Kyrie needs shoes that won't slow him down and help him connect to the court. This Kyrie Low 4 is stripped of all excess to keep it lean and lightweight while fully containing the foot and helping to eliminate movement inside the shoe. Cushlon foam and Zoom Air provide a smooth, responsive ride, and the data-informed traction keeps you low to the ground and in control.<br/><hr>Colour Shown: Racer Blue/Arctic Punch/Barely Volt/Chlorine Blue<br/>Style: CW3985-401<p/>"
     }
   ]
