@@ -5,7 +5,8 @@
         "title": "Nike Kyrie 7",
         "content" : "Men Shoes",
         "price" : 190,
-        "quan" : 1
+        "quan" : 1,
+        "details" : "<p>Kyrie Irving is a creative force on and off the court. He needs his shoes to keep up with his playmaking, but also sync with his boundary-pushing style and ethos. Tuned for the next generation of energy return, control and speed, the Kyrie 7 helps players at all levels take advantage of their quick first step by optimising the shoe's fit, court feel and banking ability.<hr/><br/>Colour Shown: Black/Lime Ice/Total Orange/Black<br/>Style: CQ9326-007<p/>"
     },
     {
         "id": 11,
@@ -13,7 +14,8 @@
         "title": "Nike Tuned",
         "content" : "Men Shoes",
         "price" : 240,
-        "quan" : 1
+        "quan" : 1,
+        "details" : "<p>When performance is what you’re looking for, look no further than the all-new Nike Tuned 3. The mesh and leather upper bring in both lightness and breathability to the construction. Cushioning and responsiveness don’t get better than this sneaker which boasts of a foam midsole, Max Air units in the forefoot and heel, and Tuned Air technology. Vein-like patterns run along the forefoot and midfoot to add to the shoe’s signature styling. The classic “Tuned Air’ phrase is also etched on the side of the toe and on the heel. Push your performance to the max with these great shoes.<hr><br/>Nike Tuned 3 features:<br/>Mesh and leather upper<br/>Visible Max Air units in forefoot and heel<br/>Tuned Air cushioning<br/>Rubber outsole<br/>Lace closure<br/>Nike Swooshes embroidered on the sides<br/>‘TN’ branding on tongue, insoles, and outsoles<br/>Color: Black<br/>Material: Textile, Leather<br/>ID: DJ6877-001<p/>"
     },
     {
         "id": 12,
@@ -21,6 +23,7 @@
         "title": "Jordan MA2",
         "content" : "Men Shoes",
         "price" : 180,
-        "quan" : 1
+        "quan" : 1,
+        "details" : "<p>The all-new Jordan MA2 makes plays on the street with wildly diverse materials.Varied designs create a look that captures the feel of Jordan heritage while forging a fresh, new identity that stands on its own.<hr><br/>Colour Shown: White/University Red/Light Smoke Grey/Black<br/>Style: CW6594-106<p/>"
     }
   ]
