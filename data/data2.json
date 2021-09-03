@@ -11,12 +11,13 @@
     },
     {
         "id": 5,
-        "img": "https://jamieyookr.github.io/img/shoes5.png",
-        "title": "Asics Quantum 180",
-        "content" : "Women Shoes",
-        "price" : 149.95,
+        "img": "https://jamieyookr.github.io/img/shoes1.png",
+        "title": "New Balance View 2",
+        "content" : "Men Shoes",
+        "price" : 170.95,
         "quan" : 1,
-        "details" : "<p>201A063001<br/><hr>Keeping its performance tooling intact, the GEL-QUANTUM 180 6 sneaker continues to evolve the shoe's lineage with technical componentry and styling cues from the ASICS archive.<br/><hr>+ Synthetic Leathetr Overlays<br/>+ GEL Technology Cushioning<br/>+ Mesh Upper<br/>+ Rubber Outsole<p/>"
+        "details" : "<p>New Balance View 2<hr><br/>The all-new JNew Balance View 2 makes plays on the street with wildly diverse materials.Varied designs create a look that captures the feel of Jordan heritage while forging a fresh, new identity that stands on its own.<hr><br/>Colour Shown: White/University Red/Light Smoke Grey/Black<br/>Style: CW6594-106<p/>"
+        
     },
     {
         "id": 6,
