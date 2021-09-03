@@ -3,11 +3,11 @@
     {
         "id": 4,
         "img": "https://jamieyookr.github.io/img/shoes4.png",
-        "title": "Asics Dynablast 2",
+        "title": "Asics Gnossien",
         "content" : "Women Shoes",
         "price" : 149.95,
         "quan" : 1,
-        "details" : "<p>202A245100<br/><hr>The SKYCOURT™ EARTH DAY sneaker borrows design influence from our indoor court offerings from the 80s and 90s. Revamping the archived inspiration with modern tooling, this shoe is also equipped with minimal branding for a low-profile finish. Enlisting the upper aesthetic from the GEL-ALTITUDE™ volleyball shoe from 1990, the sneaker’s leather construction is complemented with retro ASICS Stripes for a nostalgic nod that references our past.<br/><hr>+ Recycled Material Upper<br/>+ Updated Midsole Design<br/>+ Minimalist Aesthetic Speaks To Brands Heriateg<p/>"
+        "details" : "<p>Asics Gnossien 202A245100<br/><hr>The Asics Gnossien SKYCOURT™ EARTH DAY sneaker borrows design influence from our indoor court offerings from the 80s and 90s. Revamping the archived inspiration with modern tooling, this shoe is also equipped with minimal branding for a low-profile finish. Enlisting the upper aesthetic from the GEL-ALTITUDE™ volleyball shoe from 1990, the sneaker’s leather construction is complemented with retro ASICS Stripes for a nostalgic nod that references our past.<br/><hr>+ Recycled Material Upper<br/>+ Updated Midsole Design<br/>+ Minimalist Aesthetic Speaks To Brands Heriateg<p/>"
     },
     {
         "id": 5,
@@ -22,7 +22,7 @@
     {
         "id": 6,
         "img": "https://jamieyookr.github.io/img/shoes6.png",
-        "title": "Puma RS Dreamer 2",
+        "title": "Puma RS Dreamer 2021",
         "content" : "Men Shoes",
         "price" : 200,
         "quan" : 1,
